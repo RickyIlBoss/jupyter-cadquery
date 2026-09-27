@@ -4,3 +4,5 @@ cadquery
 build123d
 cadquery-massembly==1.0.0
 jupyter-cadquery==5.1.0
+tornado==6.5.8
+ipykernel<7
